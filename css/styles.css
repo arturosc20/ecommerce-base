@@ -181,7 +181,7 @@ h3 {
     grid-row: 1 / 2;
 }
 
-@media (width >=768) {
+@media (width >= 768px) {
     .us {
         grid-template-columns: repeat(2, 1fr);
         column-gap: 2rem;
